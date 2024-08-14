@@ -1,0 +1,24 @@
+name = "hugo-research-group"
+license = "MIT"
+licenselink = "https://github.com/E1nzbern/hugo-research-group/blob/main/LICENSE"
+description = "Hugo theme for creating beautiful research group websites modified from Hugo Blox Bootstrap."
+homepage = "https://github.com/E1nzbern/hugo-research-group"
+demosite = "https://hugo-academic-pages.netlify.app/"
+tags = ["widgets",
+        "portfolio",
+        "responsive",
+        "academic",
+        "blog",
+        "minimal",
+        "dark",
+        "multilingual",
+        "landing page",
+        "one page",
+        "customizable"
+        ]
+features = ["page builder", "widgets", "color themes", "dark mode", "customizable", "filterable portfolio",
+            "blog", "create landing pages", "gallery", "contact form"]
+
+[author]
+  name = "E1nzbern"
+  homepage = "https://github.com/E1nzbern"
